@@ -1,0 +1,35 @@
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+
+body{
+    border-style: dotted;
+}
+
+
+.card{
+   width: 500px;
+   background-color: brown;
+   text-align: center;
+}
+
+
+div{
+        border: double;
+      }
+
+#dish-name1{
+    color: white;  
+}
+#dish-name2{
+    color: white;  
+}
+#dish-name3{
+    color: white;  
+}
+
+
+ 
